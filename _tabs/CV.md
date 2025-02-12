@@ -15,7 +15,3 @@ order: 1
 
 *Testing...*
 
-```bash
-
-echo "Hi"
-```
