@@ -42,13 +42,12 @@ Add the newly created domain admin group here as well.
 
 ---
 
-What are restricted groups and why do we use them?
-	Restricted groups creates a list of users / groups with explicit access to specific functionality provided denying those
-	not a member of the groups.
-	To be able to connect to a machine via remote desktop, the user logging in must belong to the `Remote Desktop Users` group. You 
-	can use the restricted groups policy to add users / groups to the local `Remote Desktop Users` group for every machine that joins a domain.
-	Now when you add the `RDP Users` group to the `Remote Desktop Users` group, we ensure that only these users are able to gain RDP access 
-	to workstations. When you need to add new users you simply add them to the `RDP Users` group.
+**What are restricted groups and why do we use them?**
+> Restricted groups creates a list of users / groups with explicit access to specific functionality provided denying those not a member of the groups.
+To be able to connect to a machine via remote desktop, the user logging in must belong to the `Remote Desktop Users` group. You can use the restricted groups policy to add users / groups to the local `Remote Desktop Users` group for every machine that joins a domain.
+
+>Now when you add the `RDP Users` group to the `Remote Desktop Users` group, we ensure that only these users are able to gain RDP access 
+to workstations. When you need to add new users you simply add them to the `RDP Users` group.
 
 Right click on Restricted Groups and click on add group
 
@@ -69,10 +68,12 @@ Verify that the `RDP Users` group is a member of the `Remote Desktop Users` buil
 
 ![Pasted image 20250205200429.png](/assets/img/Pasted%20image%2020250205200429.png)
 
-Why configure RDP like this?
-	Configuring RDP like this results in an implicit deny to all users not a part of the `Remote Desktop Users` security group. To allow users RDP
-	access, they must be explicitly configured to be allowed to do so. This results in better organizational security by explicitly allowing only 
-	those that require RDP access. Principle of least privilege?
+**Why configure RDP like this?**
+>Configuring RDP like this results in an implicit deny to all users not a part of the `Remote Desktop Users` security group. To allow users RDP
+access, they must be explicitly configured to be allowed to do so.
+
+>This results in better organizational security by explicitly allowing only 
+those that require RDP access. Principle of least privilege?
 
 ---
 

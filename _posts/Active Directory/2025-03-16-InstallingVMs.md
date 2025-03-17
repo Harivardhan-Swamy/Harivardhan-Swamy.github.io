@@ -1,5 +1,5 @@
 ---
-title: Installing VMs for AD
+title: Part 1 Installing VMs for AD
 date: 2025-03-16 12:00:00 -500
 categories: [homelab, active directory]
 tags: [acitve-directory]
