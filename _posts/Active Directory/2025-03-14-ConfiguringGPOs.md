@@ -1,6 +1,6 @@
 ---
-title: Configurig GPOs Part 1
-date: 2025-03-16 12:00:00 -500
+title: Part 3 - Configuring GPOs (Part 1)
+date: 2025-03-14 10:30:00 +550
 categories: [homelab, active directory]
 tags: [acitve-directory]
 ---
