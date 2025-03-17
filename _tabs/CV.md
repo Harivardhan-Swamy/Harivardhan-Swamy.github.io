@@ -8,16 +8,16 @@ order: 1
 
 
 ### C-ISFCR, PES University	Bangalore, IN
-**Cybersecurity Research Intern	          Mar 2023 - Dec 2023**
+>**Cybersecurity Research Intern <br> Mar 2023 - Dec 2023**
 
-*Digital Forensics*
+**Digital Forensics**
 - Engineered comprehensive forensic artifacts and labs for PES Universities Cybersecurity Masters course resulting in a 15% increase in course satisfaction.
 - Created easy to follow step-by-step guides for students, allowing for greater understanding and easier conduction of forensic analysis.
 - Utilized the autopsy digital forensics platform to perform forensic analysis on images of systems and drives.
 - Worked on creating windows registry images used for detecting signs of malicious activity on a malware infected system.
 
 
-*Ethical Hacking*
+**Ethical Hacking**
 - Performed penetration testing on an internal application at PES University, uncovering 2 critical XSS vulnerabilities that would impact more than 90% of users on the platform.
 - Researched and built CTF challenges for students resulting in a 25% increase in positive reviews from students.
 - Conducted demonstrations on each phase of a penetration test following the MITRE ATT&CK framework.
@@ -27,13 +27,14 @@ order: 1
 ---
 
 ### C-ISFCR, PES University	Bangalore, IN	
-**Teaching Assistant	Aug 2022 - Feb 2023**
-*Computer Network Security*
+>**Teaching Assistant	<br> Aug 2022 - Feb 2023**
+
+**Computer Network Security**
 - Developed network security labs while working with a team to cover common network based attacks like DDoS, ARP Spoofing, Firewall bypasses, TCP and DNS protocol based attacks.
 - Conducted lab demonstrations and hosted lab hours for the Computer Network Security course.
 Created comprehensive and easy to follow guides to replicate the attacks in a controlled environment set-up in docker.
 
-*Information Security*
+**Information Security**
 - Hosted lab hours for the information security course resulting in 20% greater course satisfaction from students.
 - Collaborated with a team of 4 people to develop exploits for the Information Security labs including various common vulnerabilities like buffer overflows, format string attacks, and return to libC on a custom Ubuntu 20.04 machine.
 - Worked on developing detailed documentation for students and faculty, facilitating the replication of the attacks.
@@ -44,7 +45,7 @@ Created comprehensive and easy to follow guides to replicate the attacks in a co
 # Projects
 
 
-## Active Directory Homelab
+### Active Directory Homelab
 
 
 
