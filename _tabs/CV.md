@@ -13,16 +13,15 @@ order: 1
 **Digital Forensics**
 - Engineered comprehensive forensic artifacts and labs for PES Universities Cybersecurity Masters course resulting in a 15% increase in course satisfaction.
 - Created easy to follow step-by-step guides for students, allowing for greater understanding and easier conduction of forensic analysis.
+- Performed Email header analysis leveraging knowledge of the SMTP protocol, phishing identification and containment techniques; and worked on documenting the findings.
 - Utilized the autopsy digital forensics platform to perform forensic analysis on images of systems and drives.
 - Worked on creating windows registry images used for detecting signs of malicious activity on a malware infected system.
-
 
 **Ethical Hacking**
 - Performed penetration testing on an internal application at PES University, uncovering 2 critical XSS vulnerabilities that would impact more than 90% of users on the platform.
 - Researched and built CTF challenges for students resulting in a 25% increase in positive reviews from students.
 - Conducted demonstrations on each phase of a penetration test following the MITRE ATT&CK framework.
 - Planned and held an interactive one day workshop on Burp Suite teaching students the basics of web application testing.
-
 
 ---
 
@@ -34,23 +33,36 @@ order: 1
 - Conducted lab demonstrations and hosted lab hours for the Computer Network Security course.
 Created comprehensive and easy to follow guides to replicate the attacks in a controlled environment set-up in docker.
 
+
 **Information Security**
 - Hosted lab hours for the information security course resulting in 20% greater course satisfaction from students.
 - Collaborated with a team of 4 people to develop exploits for the Information Security labs including various common vulnerabilities like buffer overflows, format string attacks, and return to libC on a custom Ubuntu 20.04 machine.
 - Worked on developing detailed documentation for students and faculty, facilitating the replication of the attacks.
-
-
----
+<br />
 
 # Projects
 
+**Enterprise Environment Security and Breach Simulation** ( Windows AD, Security Onion )
+- Proficient in log analysis and utilizing Wazuh to monitor, investigate, respond to and mitigate incidents generated as part of the end to end attack performed on the environment. 
+- Creating detection rules and configuring alerts such that alerts are generated when potentially malicious activity takes place on endpoints.
+- Performed an end to end attack following steps outlined in the cyber kill chain.
 
-### Active Directory Homelab
+**[Windows Active Directory Environment](https://harivardhan-swamy.github.io/categories/active-directory/)** ( Windows AD, GPO, CIS Benchmarks ) 
+- Proficient in managing and automating Windows OS tasks, including user account administration, process management, and system configuration using both GUI and PowerShell.
+- Configured GPOs to improve the security posture of the lab environment following recommendations provided by the CIS benchmarks for Windows server 2022.
 
+**Malware Analysis** ( Dynamic Analysis, Sysinternal suite )
+- Performed Windows triage and forensic analysis, conducting in-depth investigations of processes, threads, virtual memory, registry structures and network activity. Diagnose and mitigate security incidents on compromised hosts.
 
+**Email Security and Phishing Analysis** ( Header Analysis, Digital Forensics )
+- Proficient in email security and phishing analysis, leveraging deep knowledge of SMTP protocols, email header analysis, and phishing containment techniques.
+- Performed email analysis on email headers, links and attachments to detect and mitigate email-based threats.
 
----
+**Log Analysis** ( SIEM, ELK, Sysmon )
+- Proficient in log and event analysis utilizing SIEM and SOAR platforms to monitor, investigate, and mitigate security incidents.
 
+- Leveraged hands-on experience with Windows/Linux logs, ELK queries, to detect malicious powershell script execution and identifying persistence mechanisms installed by malware.
+<br />
 
 # Education and Certificates
 

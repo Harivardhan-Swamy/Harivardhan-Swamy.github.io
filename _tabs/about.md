@@ -5,5 +5,8 @@ order: 1
 ---
 
 
-Cybersecurity enthusiast and apiring SOC Analyst with hands-on experience in ethical hacking and digital forensics. Demonstrated proficiency in penetration testing, uncovering critical vulnerabilities, and creating engaging CTF challenges. Skilled in teaching and supporting students through interactive workshops and as a Teaching Assistant in Information Security and Computer Network Security courses, enhancing course satisfaction and learning outcomes.
+Cybersecurity enthusiast and aspiring SOC analyst with hands-on experience in incident response and digital forensics. Demonstrable proficiency in log analytics, email security, malware analysis and penetration testing. 
+<br />
+<br />
+Performed log analytics in a home lab environment emulating security incidents and performing  incident response. Skilled in teaching and supporting students through interactive workshops and as a Teaching Assistant in Information Security and Computer Network Security courses, enhancing course satisfaction and learning outcomes.
 
