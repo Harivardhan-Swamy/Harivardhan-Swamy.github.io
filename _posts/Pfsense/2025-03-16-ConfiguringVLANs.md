@@ -1,7 +1,7 @@
 ---
 title: Part 2 - Configuring VLANs on PfSense
 date: 2025-03-16 9:35:00 +550
-categories: [homelab, Pfsense]
+categories: [Homelab, PfSense]
 tags: [Pfsense]
 ---
 

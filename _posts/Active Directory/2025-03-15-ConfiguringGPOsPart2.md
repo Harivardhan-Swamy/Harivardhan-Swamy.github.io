@@ -1,7 +1,7 @@
 ---
 title: Part 4 - Configuring GPOs (Part 2)
 date: 2025-03-15 9:30:00 +550
-categories: [homelab, active directory]
+categories: [Homelab, Active Directory]
 tags: [acitve-directory]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Part 2 - Setting up Components
 date: 2025-03-14 10:00:00 +550
-categories: [homelab, active directory]
+categories: [Homelab, Active Directory]
 tags: [acitve-directory]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Part 1 - Installing PfSense
 date: 2025-03-16 9:30:00 +550
-categories: [homelab, Pfsense]
+categories: [Homelab, PfSense]
 tags: [Pfsense]
 ---
 
