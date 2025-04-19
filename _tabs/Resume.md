@@ -42,21 +42,27 @@ Created comprehensive and easy to follow guides to replicate the attacks in a co
 
 # Projects
 
-**Enterprise Environment Security and Breach Simulation** ( Windows AD, Security Onion )
-- Proficient in log analysis and utilizing Wazuh to monitor, investigate, respond to and mitigate incidents generated as part of the end to end attack performed on the environment. 
-- Creating detection rules and configuring alerts such that alerts are generated when potentially malicious activity takes place on endpoints.
-- Performed an end to end attack following steps outlined in the cyber kill chain.
+**[Network Security and Isolation](https://harivardhan-swamy.github.io/categories/pfsense/)** ( PfSense, VLANs, Suircata )
+- Performed firewall rule configurations and updates as well integrations with an IDS to perform network traffic analysis.
+- Worked on managing firewall rules preventing communication between VLANs and creating an isolated network for performing malware analysis on compromised workstations.
 
-**[Windows Active Directory Environment](https://harivardhan-swamy.github.io/categories/active-directory/)** ( Windows AD, GPO, CIS Benchmarks ) 
+**[Email Security and Phishing Analysis](https://harivardhan-swamy.github.io/categories/email-forensics/)** ( Header Analysis, Digital Forensics )
+- Proficient in email security and phishing analysis, leveraging deep knowledge of SMTP protocols, email header analysis, and phishing containment techniques.
+- Performed email analysis on email headers, links and attachments to detect and mitigate email-based threats.
+
+**[Securing Windows AD](https://harivardhan-swamy.github.io/categories/active-directory/)** ( Windows AD, GPO, CIS Benchmarks ) 
 - Proficient in managing and automating Windows OS tasks, including user account administration, process management, and system configuration using both GUI and PowerShell.
 - Configured GPOs to improve the security posture of the lab environment following recommendations provided by the CIS benchmarks for Windows server 2022.
+
+**Enterprise Environment Security and Breach Simulation** ( Windows AD, Security Onion )
+- Proficient in log analysis and utilizing a SIEM to monitor, investigate, respond to and mitigate incidents generated as part of the end to end attack performed on the environment. 
+- Using the XDR capabilities to remove potentially malicious software from end points.
+- Creating detection rules and configuring alerts such that alerts are generated when potentially malicious activity takes place on endpoints.
+- Performed an end to end attack following steps outlined in the cyber kill chain.
 
 **Malware Analysis** ( Dynamic Analysis, Sysinternal suite )
 - Performed Windows triage and forensic analysis, conducting in-depth investigations of processes, threads, virtual memory, registry structures and network activity. Diagnose and mitigate security incidents on compromised hosts.
 
-**Email Security and Phishing Analysis** ( Header Analysis, Digital Forensics )
-- Proficient in email security and phishing analysis, leveraging deep knowledge of SMTP protocols, email header analysis, and phishing containment techniques.
-- Performed email analysis on email headers, links and attachments to detect and mitigate email-based threats.
 
 **Log Analysis** ( SIEM, ELK, Sysmon )
 - Proficient in log and event analysis utilizing SIEM and SOAR platforms to monitor, investigate, and mitigate security incidents.
