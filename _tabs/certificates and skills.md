@@ -22,9 +22,9 @@ order: 2
 
 
   <div>
-    <img src="https://img.icons8.com/color/100/000000/google-logo.png" alt="Google Cybersecurity Professional" style="width: 100px; height: auto; margin-bottom: 10px;">
+    <img src="/assets/img/google-cybersecurity-professional-certificate-v2.png" alt="Google Cybersecurity Professional" style="width: 140px; height: auto; margin-bottom: 10px;">
     <p><strong>
-    <a href="" target="_blank" style="text-decoration: none;">
+    <a href="https://coursera.org/share/3ed1a8b857f14abb1fb5a6dc2b7c668f" target="_blank" style="text-decoration: none;">
     Google Cybersecurity Professional
     </a>
     </strong></p>

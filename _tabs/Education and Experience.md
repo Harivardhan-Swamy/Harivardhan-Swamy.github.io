@@ -33,11 +33,10 @@ order: 1
 
 
 
-## Education and Certificates
+## Education
 
 ---
 
-E learning Security - EJPT V2	[View Certificate](https://certs.ine.com/64767025-50e9-4623-a0e3-41122bcc4b7b#gs.9eg7gp)
-
-Google Cybersecurity Professional Certificate	[View Certificate](https://coursera.org/share/3ed1a8b857f14abb1fb5a6dc2b7c668f)
-
+- PES University Bangalore, IN (2019-2023)
+    - Bachelors of Technology - Computer Science and Engineering 
+    - Specialization in Cybersecurity
