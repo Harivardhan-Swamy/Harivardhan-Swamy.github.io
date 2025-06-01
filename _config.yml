@@ -18,9 +18,9 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Yet Another Security Blog  # the main title
+title: My Professional Portfolio  # the main title
 
-tagline: YASB - A Cyber Security blog # it will display as the sub-title
+tagline: A collection of my experience and projects # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A Blog Site just for me
@@ -38,14 +38,15 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Harivardhan Swamy
-  #email: example@domain.com # change to your email address
+  email: swamyharivardhan@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # change to your twitter homepage
+    - http://www.linkedin.com/in/harivardhan-swamy
     - https://github.com/Harivardhan-Swamy # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+
 
 google_site_verification: # fill in to your verification string
 
@@ -66,7 +67,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light|dark]
+theme_mode:  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
